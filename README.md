@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.jpg" alt="banner" />
+  <img src="sonic.jfif" alt="banner" />
 </p>
 
 # Hi, I'm Nurettin 👋
