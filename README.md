@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KULLANICI_ADIN/KULLANICI_ADIN/main/banner.png" alt="banner" />
+</p>
+
 # Hi, I'm Nurettin 👋
 
 I'm a **software developer** focused on building **practical, production-oriented applications**.
