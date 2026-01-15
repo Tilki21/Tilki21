@@ -69,7 +69,7 @@ Each repository includes a detailed README explaining the purpose and structure 
 
 ## 📫 Contact
 
-- 💼 LinkedIn: **[/in/username](https://www.linkedin.com/in/nurettin-k%C4%B1l%C4%B1n%C3%A7-0315ab307/)**
+- 💼 LinkedIn: **[Nurettin Kılınç](https://www.linkedin.com/in/nurettin-k%C4%B1l%C4%B1n%C3%A7-0315ab307/)**
 
 I’m currently open to opportunities where I can contribute, learn, and grow as part of a team.
 
