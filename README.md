@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KULLANICI_ADIN/KULLANICI_ADIN/main/banner.png" alt="banner" />
+  <img src="banner.jpg" alt="banner" />
 </p>
 
 # Hi, I'm Nurettin 👋
