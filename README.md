@@ -63,7 +63,7 @@ Each repository includes a detailed README explaining the purpose and structure 
 
 ## 📊 GitHub Activity
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tilki21&show_icons=true&theme=default)
 
 ---
 
